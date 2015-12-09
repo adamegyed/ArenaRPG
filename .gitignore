@@ -1,0 +1,12 @@
+*.class
+
+# IDE Specific
+.classpath
+.idea/
+*.bluej
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
